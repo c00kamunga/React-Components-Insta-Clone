@@ -3,7 +3,8 @@
 // HINT: You will need to add an onClick event pass through your props and update the hard coded Likes
 import React from "react";
 
-const LikeSection = props => {
+const LikeSection = (props) => {
+  console.log(props)
   return (
     <div>
     <div
