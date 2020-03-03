@@ -5,7 +5,7 @@ import React, {useState} from "react";
 
 const LikeSection = (props) => {
   console.log(props)
-  const [likes, setLikes] = useState(0);
+  const [likes, setLikes] = useState(props.likes);
   return (
     <div>
     <div
