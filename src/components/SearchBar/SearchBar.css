@@ -7,7 +7,7 @@
   background: #ffffff;
 }
 .search-form {
-  width: 150px;
+  width: 50px;
   font-size: 14px;
 }
 .search-form input {
@@ -15,7 +15,7 @@
   color: #262626;
 }
 .image-wrapper {
-  height: 50px;
+  height: 25px;
 }
 
 .logo-image {
